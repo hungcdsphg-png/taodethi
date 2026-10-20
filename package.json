@@ -1,0 +1,20 @@
+{
+  "name": "taodethi-cv7991",
+  "version": "1.0.0",
+  "description": "Ứng dụng tạo đề thi, ma trận và bản đặc tả chuẩn Công văn 7991 của Bộ Giáo dục & Đào tạo",
+  "main": "index.html",
+  "scripts": {
+    "start": "python3 server.py",
+    "dev": "python3 server.py"
+  },
+  "keywords": [
+    "taodethi",
+    "cv7991",
+    "giao-duc",
+    "gemini-ai",
+    "de-thi-thpt",
+    "ma-tran-de-thi"
+  ],
+  "author": "Open Source",
+  "license": "MIT"
+}
